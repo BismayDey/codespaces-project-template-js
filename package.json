@@ -1,5 +1,5 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "PORTFOLIO-V1",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
@@ -7,18 +7,18 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://BismayDey.github.io/PORTFOLIO-V2'",
+    "build-gh": "parcel build --public-url 'https://BismayDey.github.io/PORTFOLIO-V2/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/BismayDey/PORTFOLIO-V2.git"
   },
-  "author": "Microsoft",
+  "author": "Bismay Dey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/BismayDey/PORTFOLIO-V2/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
