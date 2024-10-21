@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/BismayDey/Portfolio.git",
+  "homepage": "https://BismayDey.github.io/PORTFOLIO-V2",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://github.com/BismayDey/Portfolio.git'",
+    "build-gh": "parcel build --public-url 'https://BismayDey.github.io/PORTFOLIO-V2'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
