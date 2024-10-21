@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "FREEZZZ - A freelancing platform",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "'FREEZZZ' is a freelancing platform that connects freelancers with clients seeking various services. It offers a user-friendly interface where freelancers can showcase their skills, and clients can easily browse and hire talent for projects. The platform streamlines the hiring process with features like job posting, proposal submissions, and secure payment options, making it ideal for both freelancers and businesses.",
+    url: "https://bismaydey.github.io/FREEZZZ/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Code editor",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This code editor app, built using React with Monaco Editor, is a powerful and customizable platform for writing and managing code. It features syntax highlighting, file and folder creation, and extension support, allowing developers to enhance their coding experience. With a sleek design that centers the coding area and integrates visual enhancements like file type icons and dark mode, it provides a seamless and intuitive environment for coding projects. Additionally, it includes a terminal feature for running commands directly within the editor.",
+    url: "https://code-editor-ruby-one.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Voice Controlled app",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This voice-controlled web app, built with JavaScript, allows users to interact with websites through voice commands. It includes voice feedback for a more immersive experience and offers expanded command options for greater functionality. Designed for mobile compatibility, the app features improved styling, animations, and accessibility enhancements with ARIA attributes. Users can customize the interface with themes like dark mode and personalize commands. The app also supports touch gestures and allows users to easily switch between different modes using a custom toggle slider.",
+    url: "https://voice-controlled-app.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Chatting App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is an online platform where users can engage in real-time conversations. It features a clean and responsive interface, making it accessible across different devices. The app is designed for smooth user interaction with quick message delivery and minimal lag, ensuring seamless communication.",
+    url: "https://chating-app-smoky.vercel.app/",
   },
 ];
 
